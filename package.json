@@ -1,0 +1,13 @@
+{
+  "name": "circadia-landing",
+  "version": "0.1.0",
+  "description": "Landing page for Circadia, an iOS bedtime ritual app synced to the phases of the moon.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
